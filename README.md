@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a **Computer Science graduate from Flinders University** with a strong focus on **software engineering, automation, and AI-integrated systems**.
 
