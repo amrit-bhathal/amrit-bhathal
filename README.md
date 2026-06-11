@@ -124,36 +124,6 @@ In an enterprise learning technology environment, I worked with large-scale inst
 
 ---
 
-## 📌 Project Strategy (VERY IMPORTANT)
-
-Recruiters don’t just look at code — they look at **how you structure your repos**.
-
-Your GitHub should clearly show:
-
-### ⚙️ 1. Automation / Backend Systems
-- Focus: scalability, pipelines, system design  
-- Example: file migration, workflow automation tools  
-
-### 🧠 2. AI / LLM Projects
-- Focus: OpenAI integration, prompt engineering, multi-agent systems  
-- Example: conversational AI, assistants, AI orchestration  
-
-### 📊 3. Data / Analytics Systems
-- Focus: dashboards, insights, data processing  
-- Example: Power BI, SQL analytics, reporting systems  
-
-### 🌐 4. Web / Full-Stack Apps
-- Focus: UI + backend integration  
-- Example: React/JS apps, API-driven systems  
-
-👉 Each repo should clearly show:
-- Problem → Solution → Impact  
-- Tech stack  
-- Screenshots or demo (very important)  
-- Clean README (like a product page)
-
----
-
 ## 🧠 What This Profile Communicates
 
 This GitHub is designed to show recruiters that I can:
